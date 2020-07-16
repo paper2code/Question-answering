@@ -5,7 +5,7 @@ Question answering (QA) is a computer science discipline within the fields of in
 ![Alt text](qa.png?raw=true "Question answering")
 
 There are two domains in question answering.  
-1 - Open domain question answering  (ODQA)
+1 - Open domain question answering  (ODQA)  
 2 - Closed domain question answering (CDQA)  
 
 ## Open domain question answering  (ODQA)
@@ -21,14 +21,14 @@ When no restriction is made on the domain of the questions we are talking about 
 Here I am explaining different approaches for both open domain question answering and closed domain question answering.  
 
 ## Closed domain question answering
-	1 - Adaptnlp  
-	2 - Deeppavlov  
-	3 - Distilbert  
-	4 - Cdqa-suite  
-	5 - Transformer  
-	6 - Transformer Pipeline  
+1 - Adaptnlp  
+2 - Deeppavlov  
+3 - Distilbert  
+4 - Cdqa-suite  
+5 - Transformer  
+6 - Transformer Pipeline  
 
 ## Open domain question answering
-	1 - Deeppavlov  
-	2 - Wikipedia QA  
+1 - Deeppavlov  
+2 - Wikipedia QA  
 	
