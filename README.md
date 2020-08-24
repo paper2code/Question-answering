@@ -28,6 +28,8 @@ Here I am explaining different approaches for both open domain question answerin
 5 - Transformer  
 6 - Transformer Pipeline  
 7 - Simple Transformers  
+8 - txtai
+
 
 ## Open domain question answering
 1 - Deeppavlov  
